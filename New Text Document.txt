@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Email Template</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+            color: #FFFFFF;
+            padding-top: 30px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: #1e2031;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        .button {
+            display: inline-block;
+            padding: 15px 30px;
+            margin: 20px 0;
+            background-color: #ff6d33;
+            color: #1A1A1A;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+        .banner h1{
+            font-size: 35px;
+        }
+        .two_collum td{
+            width: 50%;
+        }
+        .list li{
+            padding: 5px 0;
+            line-height: 1.4em;
+        }
+        .footer td{
+            display: block;
+        }
+    </style>
+</head>
+<body>
+<main class="container">
+    <table cellspacing="0" cellpadding="0" border="0" align="center">
+        <tr>
+            <td style="width: 30%;">
+                <img src="https://i.ibb.co.com/9mrtL3GH/2ce12f4786b2b150f6b43d52b0d198a3-1200-80.webp" alt="Business Logo" style="max-width: 100%;">
+            </td>
+            <td style="width: 40%;  text-align: right; padding-right: 10px;">
+                <span style="display: inline-block;">In association with</span>
+            </td>
+            <td style="width: 30%">
+                <img src="https://i.ibb.co.com/cSm19mBZ/5cc9145a2cb2c293e81a6366d42ff3f6-1200-80.webp" alt="Business Logo" style="max-width: 180px;">
+            </td>
+        </tr>
+    </table>
+    
+    <table>
+        <tr class="two_collum">
+            <td align="left" style="padding: 50px 0;" class="banner">
+                <span>Start Your Journey to Smarter Investments Today!</span>
+                <h1 style="color: #ff6d33; ">Unlock Smarter Investing in 2025</h1>
+                <p>The financial landscape is changing rapidly. Our exclusive 2025 Investment Guide, in association with The Independent & Trading212, provides expert insights to help you stay ahead.</p>
+                <a href="https://site.globalbusinessdigest.com/trading212" target="_blank" class="button" style="width: 60%; text-align: center;">Download Your Free Guide Now to access</a>
+            </td>
+            <td>
+                <img src="https://i.ibb.co.com/pBpsr0z8/2fe126b43953c1ea91ac3d559dc0f4d8-1200-80.webp" alt="" width="100%">
+            </td>
+        </tr>
+    </table>
+    <table cellspacing="0" cellpadding="0" border="0" align="left">
+        <tr>
+            <h2 class="common_title">Why Trust This Report?</h2>
+        </tr>
+        <tr>
+            <ul class="list">
+                <li><strong>Trusted Journalism:</strong> In-depth market insights from The Independent.</li>
+                <li><strong>Expert Contributors</strong> Featuring industry leaders & analysts.</li>
+                <li><strong>Trusted Journalism:</strong> Actionable strategies for 2025 and beyond.</li>
+                <li><strong>No Cost, No Hassle</strong> Completely free, instant access.</li>
+            </ul>
+            <a href="https://site.globalbusinessdigest.com/trading212" target="_blank" class="button" style="width: 60%; text-align: center;">Download Your Free Guide Now to access</a>
+        </tr>
+    </table>
+    <table cellspacing="0" cellpadding="0" border="0" align="left">
+        <tr>
+            <img src="https://i.ibb.co.com/LD4FwW9G/15028ea325529db465b6a7d1b14f7664-1200-80.webp" alt="" width="100%">
+        </tr>
+        <tr>
+            <h2 class="common_title">Your Exclusive Investment Guide</h2>
+            <h4>What’s Inside?</h4>
+        </tr>
+        <tr>
+            <ul class="list">
+                <li>The rise of reintermediation and its impact on investors.</li>
+                <li>How AI is transforming financial decision-making.</li>
+                <li>The shift in consumer behaviour and financial services.</li>
+                <li>Key insights from industry leaders and market analysts Stay informed with in-depth research from financial experts and The Independent’s award-winning journalism</li>
+            </ul>
+            <a href="https://site.globalbusinessdigest.com/trading212" target="_blank" class="button" style="width: 60%; text-align: center;">Download Your Free Guide Now to access</a>
+        </tr>
+        <tr>
+            <hr>
+        </tr>
+        
+    </table>
+    <table cellspacing="0" cellpadding="0" border="0" align="center" class="footer">
+        <tr>
+            <td>
+                <img src="https://i.ibb.co.com/9mrtL3GH/2ce12f4786b2b150f6b43d52b0d198a3-1200-80.webp" alt="Business Logo" style="max-width: 200px;">
+            </td>
+        </tr>
+        <tr style="text-align: center;">
+            <td>
+
+                <span style="display: inline-block;">In association with</span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+
+                <img src="https://i.ibb.co.com/cSm19mBZ/5cc9145a2cb2c293e81a6366d42ff3f6-1200-80.webp" alt="Business Logo" style="max-width: 180px;">
+            </td>
+        </tr>
+    </table>
+    <table cellspacing="0" cellpadding="0" border="0" align="center" class="footer">
+        <tr>
+            <hr>
+        </tr>
+    </table>
+</main>
+
+</body>
+</html>
